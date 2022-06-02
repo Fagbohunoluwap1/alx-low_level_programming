@@ -1,2 +1,2 @@
 #!/bin/bash
-ggc -E <filename.c> -o <filename> 
+ggc -E <0-main.c> -o <0-preprocessor> 
