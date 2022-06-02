@@ -1,2 +1,2 @@
 #!/bin/bash
-ggc -E <0-main.c> -o <main.c> 
+ggc -E <C-file> -o <O-main.c> 
