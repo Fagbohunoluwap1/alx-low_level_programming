@@ -5,9 +5,9 @@
  *
  * Return: 0 on success
  */
- int main(void)
- {
- 	int i;
+int main(void)
+{
+        int i;
  	int j;
  	int k;
 
