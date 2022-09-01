@@ -4,7 +4,7 @@
  * free_dlistint - frees a dlistint_t list
  * @head: head of the dlistint_t
  */
-void free_dlistint(dlistint_t *head);
+void free_dlistint(dlistint_t *head)
 {
 	dlistint_t *tmp;
 
